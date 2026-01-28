@@ -167,6 +167,10 @@
         "itvlist-ipv41234": {
             "name":"itvlist-ipv4",
             "url": "https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u"
+        },
+        "Jsnzkpg-ipv4123": {
+            "name":"Jsnzkpg",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
         }
     }
 }
